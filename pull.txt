@@ -1,0 +1,1 @@
+This sentence is edit on github to perform pull on local repository using pull command.
