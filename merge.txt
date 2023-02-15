@@ -1,1 +1,0 @@
-This sentence is edit on github to perform merge on local repository using merge command.
